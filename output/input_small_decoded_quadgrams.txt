@@ -1,0 +1,25 @@
+Pokrecemo annealing sa 4-gram analizom
+Trenutni skor: -23.9989
+TERREDTHIS
+
+Trenutni skor: -23.9162
+RESSTHATSH
+
+Trenutni skor: -23.4332
+DLOOKINGTH
+
+Trenutni skor: -22.2231
+RESSINTHEM
+
+Trenutni skor: -21.9015
+OUTTHEREDA
+
+Trenutni skor: -21.8329
+BUTTHEREDA
+
+Trenutni skor: -21.746
+BUTTHERETH
+
+Trenutni skor: -21.6813
+BUTTHEREAD
+

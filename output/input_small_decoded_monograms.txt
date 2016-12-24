@@ -1,0 +1,19 @@
+Pokrecemo annealing sa 1-gram analizom
+Trenutni skor: -10.1348
+AOEEETEIES
+
+Trenutni skor: -10.0401
+ITEEEOETEN
+
+Trenutni skor: -10.0161
+NTEEEOETEN
+
+Trenutni skor: -9.99604
+OEEEOTETEN
+
+Trenutni skor: -9.93777
+HEEEEIETEO
+
+Trenutni skor: -9.8963
+OEEEEIETEN
+

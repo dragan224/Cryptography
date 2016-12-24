@@ -1,0 +1,28 @@
+Pokrecemo annealing sa 2-gram analizom
+Trenutni skor: -17.3954
+ASEERATHED
+
+Trenutni skor: -16.9445
+OUTTHETHAN
+
+Trenutni skor: -16.9048
+RETTHETHIS
+
+Trenutni skor: -16.8145
+METTHERETH
+
+Trenutni skor: -16.7182
+SETTHERETH
+
+Trenutni skor: -16.5952
+INTTHESERE
+
+Trenutni skor: -16.5183
+ASTTHERETH
+
+Trenutni skor: -16.4714
+NDTTHATHER
+
+Trenutni skor: -16.3799
+INTTHESHER
+

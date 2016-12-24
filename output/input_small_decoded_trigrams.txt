@@ -1,0 +1,28 @@
+Pokrecemo annealing sa 3-gram analizom
+Trenutni skor: -21.7501
+TITTHERETE
+
+Trenutni skor: -21.4013
+DBEETHERED
+
+Trenutni skor: -21.1768
+RESSTHESSI
+
+Trenutni skor: -21.0393
+NESSTOTHER
+
+Trenutni skor: -20.5551
+BUTTHEREDI
+
+Trenutni skor: -20.1384
+WITTHERESA
+
+Trenutni skor: -20.1383
+WITTHERETH
+
+Trenutni skor: -20.075
+WITTHEREAR
+
+Trenutni skor: -19.9602
+WITTHEREAN
+
